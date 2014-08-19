@@ -18,7 +18,7 @@ Yum constants. Usually dealing with rpm magic numbers.
 """
 
 #Constants
-YUM_PID_FILE = '/var/run/yum.pid'
+YUM_PID_FILE = '/run/yum.pid'
 
 #transaction set states
 TS_UPDATE = 10
